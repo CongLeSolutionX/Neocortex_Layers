@@ -11,7 +11,7 @@ import SwiftUI
 struct Neocortex_LayersApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NeocortexLayersView()
         }
     }
 }
